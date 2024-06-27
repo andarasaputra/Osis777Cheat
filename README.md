@@ -57,7 +57,7 @@
         .submit-btn {
     padding: 15px 20px;
     background: linear-gradient(to right, #2ac5ff, #2ac5ff);
-    color: #000000;
+    color: #2ac5ff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -74,7 +74,7 @@
             width: 100%;
             padding: 10px;
             background-color: linear-gradient(#2ac5ff, #2ac5ff, #2ac5ff);
-            color: #000;
+            color: #2ac5ff;
             border: none;
             border-radius: 5px;
             cursor: not-allowed;
@@ -142,8 +142,8 @@
 }
 
 @keyframes blink {
-    0%, 50%, 100% { color: #000; }
-    25%, 75% { color: #fff; }
+    0%, 50%, 100% { color: #2ac5ff; }
+    25%, 75% { color: #2ac5ff; }
 }
 
 
@@ -158,7 +158,7 @@
         <img src="https://i.imgur.com/5wL33Ba.png" alt="PETIR MERAH">
         <h2>CHEAT AUTO PETIR MERAH</h2>
     </h2>PASTIKAN AKUN KALIAN SUDAH TERDAFTAR SEBELUM BERMAIN :</h2>
-    <a href="https://osis777net.org" target="_blank"><strong><b><u><mark style="background-color:#ff00bf">DAFTAR DISINI</mark></u></b></strong></a>
+    <a href="https://osis777net.org" target="_blank"><strong><b><u><mark style="background-color:#2ac5ffbf">DAFTAR DISINI</mark></u></b></strong></a>
         <form id="submitForm" action="#" method="POST">
             <label for="username">MASUKAN USERNAME :</label>
             <input type="text" id="username" name="username" class="input-field" required="">
