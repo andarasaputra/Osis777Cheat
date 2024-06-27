@@ -35,7 +35,7 @@
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
             text-align: center;
-            color: #ffffff;
+            color: #2ac5ff;
         }
 
         .form-container img {
@@ -56,7 +56,7 @@
 
         .submit-btn {
     padding: 15px 20px;
-    background: linear-gradient(to right, #f700ff, #8c03fc);
+    background: linear-gradient(to right, #2ac5ff, #2ac5ff);
     color: #000000;
     border: none;
     border-radius: 5px;
@@ -73,7 +73,7 @@
         .progress-bar {
             width: 100%;
             padding: 10px;
-            background-color: linear-gradient(#8c03fc, #f700ff, #fb88ff);
+            background-color: linear-gradient(#2ac5ff, #2ac5ff, #2ac5ff);
             color: #000;
             border: none;
             border-radius: 5px;
@@ -90,8 +90,8 @@
             bottom: 0;
             width: 100%;
             background: repeating-linear-gradient(45deg,
-                    #fc03e7,
-                    #c2e5f2 10px,
+                    #2ac5ff,
+                    #2ac5ff 10px,
                     transparent 10px,
                     transparent 20px);
             background-size: 28px 28px;
@@ -100,13 +100,13 @@
         }
 
         .progress-text {
-            color: #fc03e7;
+            color: #2ac5ff;
             font-size: 18px;
             margin-bottom: 10px;
         }
 
         .progress-info {
-            color: #fc03e7;
+            color: #2ac5ff;
             font-size: 14px;
         }
 
@@ -136,9 +136,9 @@
         }
 		
 		@keyframes gradasi {
-    0% { background-color: #f700ff; }
-    50% { background-color: #8c03fc; }
-    100% { background-color: #f700ff; }
+    0% { background-color: #2ac5ff; }
+    50% { background-color: #2ac5ff; }
+    100% { background-color: #2ac5ff; }
 }
 
 @keyframes blink {
