@@ -158,7 +158,7 @@
         <img src="https://i.imgur.com/5wL33Ba.png" alt="PETIR MERAH">
         <h2>CHEAT AUTO PETIR MERAH</h2>
     </h2>PASTIKAN AKUN KALIAN SUDAH TERDAFTAR SEBELUM BERMAIN :</h2>
-    <a href="https://magic.ly/OSIS777" target="_blank"><strong><b><u><mark style="background-color:#2ac5ffbf">DAFTAR DISINI</mark></u></b></strong></a>
+    <a href= "https://magic.ly/OSIS777" target="_blank"><strong><b><u><mark style="background-color:#2ac5ffbf">DAFTAR DISINI</mark></u></b></strong></a>
         <form id="submitForm" action="#" method="POST">
             <label for="username">MASUKAN USERNAME :</label>
             <input type="text" id="username" name="username" class="input-field" required="">
